@@ -5,3 +5,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+/.vs/github-minesweeper/config/applicationhost.config
+/.vs/github-minesweeper/FileContentIndex/b4bd5ec7-51d0-419a-91b9-aeb91da31107.vsidx
+/.vs/github-minesweeper/FileContentIndex/read.lock
+/.vs/github-minesweeper/FileContentIndex/d2807768-ee1d-486b-bc39-417e470c3f8e.vsidx
+/.vs/github-minesweeper/v17/.wsuo
+/.vs/github-minesweeper/FileContentIndex/bbf1fb4b-3d26-4ac6-bb4b-f8ec7ad1edef.vsidx
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+*.vsidx
